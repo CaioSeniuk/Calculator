@@ -12,6 +12,7 @@
 #    print(f"\nThe calculation is {num1} / {num2}= {num1 / num2:.2f}\n")
 #else:
 #    quit()
+
 #New project with (while else)
 print(f"\nProgram that calculate basic mathematic operations!")
 op = 0

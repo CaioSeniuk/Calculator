@@ -36,6 +36,7 @@ while contador == 1:
         print(f"\nThe calculation is {num1} / {num2} = {num1 / num2:.2f}\n" + ("-"*60))
     elif op <= 0 or op > 5:
         print ("\nErro ! Insira um valor válido\n" + ("-"*60))
-    if op == 5:
+    else:
      print("\nFim do programa !\n"+ ("-"*60))
      contador += 1
+     

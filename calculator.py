@@ -38,4 +38,4 @@ while contador == 1:
         print ("\nErro ! Insira um valor válido\n" + ("-"*60))
     if op == 5:
      print("\nFim do programa !\n"+ ("-"*60))
-     break
+     contador += 1

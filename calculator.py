@@ -13,7 +13,7 @@
 #else:
 #    quit()
 
-#New project with (while else)
+#New project with while else
 print(f"\nProgram that calculate basic mathematic operations!")
 op = 0
 while op < 5:

@@ -35,5 +35,5 @@ while op < 5:
         num2 = float(input("\nEnter the 2º number: "))
         print(f"\nThe calculation is {num1} / {num2} = {num1 / num2:.2f}\n" + ("-"*60))
 else:
-    print("\nFim do programa !\n"+ ("-"*60))
+    print("\nProgram finished !\n"+ ("-"*60))
     quit

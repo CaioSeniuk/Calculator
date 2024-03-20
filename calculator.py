@@ -21,7 +21,7 @@ while op < 5:
     if op== 1:
         num1 = float(input("\nEnter the 1º number: "))
         num2 = float(input("\nEnter the 2º number: "))
-        print(f"\nThe calculation is {num1} + 2{num2} = {num1+num2:.2f}\n" + ("-"*60))
+        print(f"\nThe calculation is {num1} + {num2} = {num1+num2:.2f}\n" + ("-"*60))
     elif op== 2:
         num1 = float(input("\nEnter the 1º number: "))
         num2 = float(input("\nEnter the 2º number: "))

@@ -13,7 +13,7 @@
 #else:
 #    quit()
 
-#New program with while else
+#New program with while
 print(f"\nProgram that calculate basic mathematic operations!")
 contador = 1
 while contador == 1:

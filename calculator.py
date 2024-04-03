@@ -23,4 +23,3 @@ while contador == 1:
     else:
      print("\nFim do programa !\n"+ ("-"*60))
      contador += 1
-     
